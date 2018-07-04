@@ -1,2 +1,0 @@
-解决向github提交代码是老要输入用户名密码问题
-git config --global credential.helper store
